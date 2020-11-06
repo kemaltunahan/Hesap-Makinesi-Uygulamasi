@@ -1,2 +1,0 @@
-# Hesap Makinesi Uygulaması
- 
